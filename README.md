@@ -1,3 +1,11 @@
+## How to Run
+
+1. Make sure node.js and nodemon is installed on your computer
+2. Clone repo
+3. npm i
+4. Open terminal & run nodemon server.js
+5. Open a 2nd terminal & run npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
